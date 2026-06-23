@@ -14,3 +14,4 @@ My background includes serving as a Senior Fire Direction Specialist in the IDF,
 * **[High-Availability RTMP Failover](https://github.com/dan-s-sec/rtmp-zero-downtime-failover):** A zero-downtime streaming failover architecture built on an Ubuntu VPS, utilizing Bash, FFmpeg, and TCP connection monitoring.
 
 📫 **Reach me at:** dan.schvetz@gmail.com | [LinkedIn](https://www.linkedin.com/in/dan-schvetz-298195414/)
+🧊 **HackTheBox profile:** https://app.hackthebox.com/public/users/2304722
